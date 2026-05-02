@@ -29,11 +29,6 @@
     "globals": "^17.5.0",
     "vite": "^8.0.10"
   }
-  "homepage": "https://<>https://github.com/guptaunnati65.github.io/WD-Capstone-Project"
-"scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
+ 
 }
-}
+
